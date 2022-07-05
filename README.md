@@ -1,2 +1,2 @@
 # Golang-CRUD-API
-A simple CRUD backend application for movies in Golang
+A simple CRUD backend REST API for movies in Golang
